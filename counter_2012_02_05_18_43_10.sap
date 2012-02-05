@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProfilerSession Type="ExecutionPerformanceAnalysis" Name="counter634640641904184288">
+  <TargetApplication Name="counter" SourceProject="counter.csproj" Type="WindowsPhone71">
+    <ApplicationBinary Path="Bin\Debug\counter.xap" Timestamp="05.02.2012 18:13:44" />
+    <ApplicationIconPath Path="" />
+    <SymbolPaths>
+      <Path Value="Bin\Debug\" />
+    </SymbolPaths>
+  </TargetApplication>
+  <Settings>
+    <Probe Name="Visual">
+      <CollectElementLevelCosting Enabled="True" />
+      <CollectSnapshots Enabled="False" Interval="" Resampling="" />
+      <CollectMediaEvents Enabled="False" />
+      <CollectCacheDetails Enabled="False" />
+    </Probe>
+    <Probe Name="Code">
+      <SampleCallStack Enabled="True" Depth="4294967295" Interval="10" />
+      <CollectPerformanceCounters Enabled="False" />
+    </Probe>
+    <Probe Name="Memory">
+      <MemoryCallStack Enabled="False" Depth="4294967295" />
+      <ObjectTree Enabled="False" Interval="10" />
+    </Probe>
+  </Settings>
+  <Data>
+    <Logs>
+      <File Type="NativeFormat" Path="PerformanceLogs\counter634640641904184288\tmp5AC6.tmp" />
+    </Logs>
+  </Data>
+  <TargetDeviceSettings OSVersion="7.10.7720" AvailablePhysicalMemoryAtStartup="375492608" ProcessorArchitectureType="Intel" ProcessorInformation="X86" IsEmulator="True" />
+</ProfilerSession>

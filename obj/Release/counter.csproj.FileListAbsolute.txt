@@ -1,0 +1,13 @@
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\Bin\Release\ApplicationIcon.png
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\Bin\Release\Background.png
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\Bin\Release\counter.dll
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\Bin\Release\counter.pdb
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\Bin\Release\AppManifest.xaml
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\Bin\Release\counter.xap
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\obj\Release\App.g.i.cs
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\obj\Release\MainPage.g.i.cs
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\obj\Release\counter.g.resources
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\obj\Release\counter.dll
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\obj\Release\counter.pdb
+C:\Users\sasha\Documents\Visual Studio 2010\Projects\counter\counter\obj\Release\XapCacheFile.xml

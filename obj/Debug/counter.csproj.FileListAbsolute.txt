@@ -1,0 +1,13 @@
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\Bin\Debug\ApplicationIcon.png
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\Bin\Debug\Background.png
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\Bin\Debug\counter.dll
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\Bin\Debug\counter.pdb
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\Bin\Debug\AppManifest.xaml
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\Bin\Debug\counter.xap
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\obj\Debug\App.g.i.cs
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\obj\Debug\MainPage.g.i.cs
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\obj\Debug\counter.g.resources
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\obj\Debug\counter.dll
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\obj\Debug\counter.pdb
+c:\users\sasha\documents\visual studio 2010\Projects\counter\counter\obj\Debug\XapCacheFile.xml
