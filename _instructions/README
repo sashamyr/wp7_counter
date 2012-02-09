@@ -1,0 +1,12 @@
+Dear,
+
+In this directory .sln and .suo files are located. This is done for you to take a look at the source code (or edit it) in a convenient way. I imply that you have a Visual Studio, as these files are Visual Studio - related.
+
+1) Copy all files from root directory (wp7_counter).
+2) Create folder "counter"
+3) Paste all copied files in "counter" folder
+4) Copy'n'paste .suo and .sln file from "_instructions" folder one level above.
+5) Run .sln file.
+
+Cheers,
+Sasha.
